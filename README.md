@@ -72,13 +72,6 @@ Designing intelligent systems, applying AI to software quality assurance, and le
 - 🧰 **LLM for Test Scenario Generation** – Experimenting with GPT-style models to automate functional and regression testing.  
 - 📊 **Data-Driven QA Analytics** – Designed dashboards to visualize software reliability and test performance metrics.
 
----
-
-## 📈 GitHub Stats
-![Asrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsrarQassem&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrarQassem&layout=compact&theme=tokyonight)
-
----
 
 <!--
 
