@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asrar Qassem
+# 👋 Hi, I'm Asrar 
 
 🎓 **Ph.D. in Computer Science & Engineering**  
 🤖 **AI Developer | Data Analyst | Researcher in Applied Intelligent Algorithms for Test Case Generation and Software Testing**
