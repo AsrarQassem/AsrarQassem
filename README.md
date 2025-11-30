@@ -3,7 +3,7 @@
 🎓 **PhD in Computer Science & Engineering**  
 🤖 **AI Developer | Data Analyst | Researcher in Applied Intelligent Algorithms in Software Engineering**
 
-Designing intelligent systems, applying AI to software quality assurance, and leveraging data for smarter, more reliable software.
+Designing intelligent systems and applying AI to software....
 
 [📧 Email](mailto:asrar.a.qassem@gmail.com) • [🔗 LinkedIn]() • [🌐 Portfolio]()
 
