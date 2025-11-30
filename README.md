@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Asrar 
 
 🎓 **PhD in Computer Science & Engineering**  
-🤖 **AI Developer | Data Analyst | Researcher in Applied Intelligent Algorithms for Test Case Generation and Software Testing**
+🤖 **AI Developer | Data Analyst | Researcher in Applied Intelligent Algorithms in Software Engineering**
 
 Designing intelligent systems, applying AI to software quality assurance, and leveraging data for smarter, more reliable software.
 
