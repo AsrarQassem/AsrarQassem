@@ -5,8 +5,6 @@
 
 Designing intelligent systems and applying AI to software....
 
-[📧 Email](mailto:asrar.a.qassem@gmail.com) • [🔗 LinkedIn]() • [🌐 Portfolio]()
-
 ---
 
 ## 🧠 About Me
