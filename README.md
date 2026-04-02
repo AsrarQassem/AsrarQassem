@@ -7,9 +7,13 @@
 
 ## 🧠 About Me
 💡 Passionate about applying **Intelligent Algorithms** to revolutionize **Software Engineering and redefine modern Test Automation practices**. 
+
 🔬 Research focus: **AI/ML-Driven Test Automation**, **Intelligent Test Case Generation**, and **ML-Based Defect Prediction & Optimization**. 
-⚙️ Applying **Machine Learning**, **Deep Learning**, and **NLP models** to elevate **Software Quality, Test Coverage, and Automation Intelligence**.  
-📊 Experienced in **Data Analysis**, **ML model deployment**, **Applied research and Intelligent Algorithms design** and **Software Validation research within Adaptive and Self-Healing Testing Systems**.  
+
+⚙️ Applying **Machine Learning**, **Deep Learning**, and **NLP models** to elevate **Software Quality, Test Coverage, and Automation Intelligence**. 
+
+📊 Experienced in **Data Analysis**,**ML model deployment**, **Applied research and Intelligent Algorithms design** and **Software Validation research within Adaptive and Self-Healing Testing Systems**.  
+
 🚀 Exploring **Generative AI for Testing**, **LLM-based test Optimization**, and **Autonomous Intelligent Test Automation (ITA)**
 
 
