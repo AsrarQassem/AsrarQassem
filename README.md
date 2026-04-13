@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Asrar 
 
 🎓 **PhD Candidate in Computer Science & Engineering**  
-🤖 **AI/ML| Intelligent System | Intelligent Test Automation (ITA)| ML-Based Test Optimization | Researcher in Applied Intelligent Algorithms in Software Engineering**
+🤖 **AI/ML | Intelligent System | Intelligent Test Automation (ITA)| ML-Based Test Optimization | Researcher in Applied Intelligent Algorithms in Software Engineering**
 
 ---
 
