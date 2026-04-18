@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+## 👩🏻‍💻 About Me
 💡 Passionate about applying **Intelligent Algorithms** to revolutionize **Software Engineering and redefine modern Test Automation practices**. 
 
 🔬 Research focus: **AI/ML-Driven Test Automation**, **Intelligent Test Case Generation**, and **ML-Based Defect Prediction & Optimization**. 
@@ -34,5 +34,3 @@
 
 -->
 ---
-
-⭐ *Empowering software reliability through intelligent testing and AI-driven automation.*
