@@ -1,36 +1,84 @@
-# 👋 Hi, I'm Asrar 
+# Hello, I'm Asrar ✦
 
-🎓 **PhD Candidate in Computer Science & Engineering**  
-🤖 **AI/ML | Intelligent System | Intelligent Test Automation (ITA)| ML-Based Test Optimization | Researcher in Applied Intelligent Algorithms in Software Engineering**
+*A researcher, a learner, and a quiet builder of intelligent things.*
+
+&nbsp;
+
+I'm a **PhD candidate in Computer Science and Engineering**, working at the intersection of **Artificial Intelligence** and the systems that shape our daily lives. My work is less about chasing what's new and more about asking *how* - how can intelligence be woven into the things we already build, the problems we already face, the systems we already trust?
+
+&nbsp;
+
+> *"To understand a system is to understand how it learns,
+> and to design a system is to teach it how to think."*
+
+&nbsp;
 
 ---
 
-## 👩🏻‍💻 About Me
-💡 Passionate about applying **Intelligent Algorithms** to revolutionize **Software Engineering and redefine modern Test Automation practices**. 
+### ✦ What I Care About
 
-🔬 Research focus: **AI/ML-Driven Test Automation**, **Intelligent Test Case Generation**, and **ML-Based Defect Prediction & Optimization**. 
-
-⚙️ Applying **Machine Learning**, **Deep Learning**, and **NLP models** to elevate **Software Quality, Test Coverage, and Automation Intelligence**. 
-
-📊 Experienced in **Data Analysis**,**ML model deployment**, **Applied research and Intelligent Algorithms design** and **Software Validation research within Adaptive and Self-Healing Testing Systems**.  
-
-🚀 Exploring **Generative AI for Testing**, **LLM-based test Optimization**, and **Autonomous Intelligent Test Automation (ITA)**
+&nbsp;
 
 
-## 🧩 Research & Projects
-- 🤖 **AI-Based Test Case Generation** – Developed algorithms using deep learning and evolutionary techniques to automate software test creation.  
-- 🧠 **Intelligent Test Data Synthesis** – Applied generative models for boundary and random input coverage.  
-- 🧮 **Defect Prediction Models** – Built ML classifiers to identify potential fault-prone modules in software projects.  
-- 🧰 **LLM for Test Scenario Generation** – Experimenting with GPT-style models to automate functional and regression testing.  
-- 📊 **Data-Driven QA Analytics** – Designed dashboards to visualize software reliability and test performance metrics.
+🌱 &nbsp; **Building intelligent systems** that serve people, not the other way around
+
+📖 &nbsp; **Understanding before optimizing**, slow research over fast results
+
+🧭 &nbsp; **Bridging disciplines**, AI with software, with language, with people
+
+🪶 &nbsp; **Thoughtful design**, code that's readable, papers that are honest, ideas that breathe
+
+&nbsp;
+
+---
+
+### ✦ Where My Work Lives
+
+&nbsp;
+
+I explore the spaces where **AI meets other worlds** — not as a replacement, but as a quiet collaborator:
+
+&nbsp;
+
+|   | Field | What I Explore |
+|---|---|---|
+| 🔍 | *Information Retrieval* | Helping machines understand language and meaning |
+| 🤖 | *Intelligent Systems* | Designing software that learns, adapts, and decides |
+| 🧠 | *Applied Machine Learning* | Turning data into insight, and insight into action |
+| ✍🏼 | *Generative AI & LLMs* | Exploring how language models can think alongside us |
+| 🌿 | *Human-Centered AI* | Keeping the human at the heart of every algorithm |
+
+&nbsp;
+
+---
+
+### ✦ A Few Things I've Built
+
+&nbsp;
+
+- 🔍 &nbsp; **Information Retrieval Projects**: *the foundation of a search engine, written in Python*
+- 🤖 &nbsp; **Intelligent Test Automation**: *teaching software to test itself*
+- 🧠 &nbsp; **Defect Prediction Models**: *finding tomorrow's bugs in today's code*
+- ✨ &nbsp; **Generative Test Synthesis**: *AI imagining the edge cases we forget*
+- 🪞 &nbsp; **LLM-Powered Workflows**: *language models as quiet research companions*
+
+&nbsp;
+
+*More work lives in the repositories.* ↓
+
+&nbsp;
+
+---
+
+### ✦ Beyond the Code
+
+&nbsp;
+
+When I'm not researching or writing, I'm probably reading, photographing, learning a new language, or asking too many questions about how things work.
+
+I believe the best engineers are also good thinkers, and the best researchers never stop being curious.
+
+&nbsp;
 
 
-<!--
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-View-blue?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=YourID)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=googlechrome)](https://yourwebsite.com)
-
--->
 ---
