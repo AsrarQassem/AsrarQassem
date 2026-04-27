@@ -36,7 +36,7 @@ I'm a **PhD candidate in Computer Science and Engineering**, working at the inte
 
 &nbsp;
 
-I explore the spaces where **AI meets other worlds** — not as a replacement, but as a quiet collaborator:
+I explore the spaces where **AI meets other worlds**, not as a replacement, but as a quiet collaborator:
 
 &nbsp;
 
