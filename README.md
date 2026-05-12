@@ -1,84 +1,44 @@
-# Hello, I'm Asrar ✦
+# Asrar
 
-*A researcher, a learner, and a quiet builder of intelligent things.*
+**PhD Candidate, Computer Science and Engineering**
 
-&nbsp;
-
-I'm a **PhD candidate in Computer Science and Engineering**, working at the intersection of **Artificial Intelligence** and the systems that shape our daily lives. My work is less about chasing what's new and more about asking *how* - how can intelligence be woven into the things we already build, the problems we already face, the systems we already trust?
-
-&nbsp;
-
-> *"To understand a system is to understand how it learns,
-> and to design a system is to teach it how to think."*
-
-&nbsp;
+Researcher and software engineer focused on the application of Artificial Intelligence to real-world software systems. My work bridges academic research and practical engineering, with an emphasis on building solutions that are robust, scalable, and grounded in measurable impact.
 
 ---
 
-### ✦ What I Care About
+## Profile
 
-&nbsp;
-
-
-🌱 &nbsp; **Building intelligent systems** that serve people, not the other way around
-
-📖 &nbsp; **Understanding before optimizing**, slow research over fast results
-
-🧭 &nbsp; **Bridging disciplines**, AI with software, with language, with people
-
-🪶 &nbsp; **Thoughtful design**, code that's readable, papers that are honest, ideas that breathe
-
-&nbsp;
+I am a PhD candidate conducting research at the intersection of Artificial Intelligence, Machine Learning, and Software Engineering. My work investigates how intelligent systems can be designed, evaluated, and integrated into modern software workflows to improve reliability, efficiency, and decision-making. I am committed to producing research and engineering artifacts that are reproducible, well-documented, and useful to both academic and industrial communities.
 
 ---
 
-### ✦ Where My Work Lives
+## Research and Technical Interests
 
-&nbsp;
-
-I explore the spaces where **AI meets other worlds**, not as a replacement, but as a quiet collaborator:
-
-&nbsp;
-
-|   | Field | What I Explore |
-|---|---|---|
-| 🔍 | *Information Retrieval* | Helping machines understand language and meaning |
-| 🤖 | *Intelligent Systems* | Designing software that learns, adapts, and decides |
-| 🧠 | *Applied Machine Learning* | Turning data into insight, and insight into action |
-| ✍🏼 | *Generative AI & LLMs* | Exploring how language models can think alongside us |
-| 🌿 | *Human-Centered AI* | Keeping the human at the heart of every algorithm |
-
-&nbsp;
+- Natural Language Processing (NLP)
+- Artificial Intelligence (AI)
+- Machine Learning (ML) and Deep Learning
+- Intelligent Automation
+- Software Testing and Quality Assurance
+- Data Analysis and Statistical Modeling
+- Data Visualization and Reporting
 
 ---
 
-### ✦ A Few Things I've Built
+## Current Work
 
-&nbsp;
+- Designing NLP and information retrieval systems for structured and unstructured data
+- Applying machine learning techniques to software engineering challenges, including defect prediction and test generation
+- Developing automation frameworks for software testing and quality assurance
+- Conducting data analysis and visualization to support evidence-based decision-making
+- Investigating the role of large language models (LLMs) in research, development, and engineering workflows
 
-- 🔍 &nbsp; **Information Retrieval Projects**: *the foundation of a search engine, written in Python*
-- 🤖 &nbsp; **Intelligent Test Automation**: *teaching software to test itself*
-- 🧠 &nbsp; **Defect Prediction Models**: *finding tomorrow's bugs in today's code*
-- ✨ &nbsp; **Generative Test Synthesis**: *AI imagining the edge cases we forget*
-- 🪞 &nbsp; **LLM-Powered Workflows**: *language models as quiet research companions*
+A selection of projects and source code is available in the repositories.
 
-&nbsp;
-
-*More work lives in the repositories.* ↓
-
-&nbsp;
 
 ---
 
-### ✦ Beyond the Code
+## Professional Values
 
-&nbsp;
-
-When I'm not researching or writing, I'm probably reading, photographing, learning a new language, or asking too many questions about how things work.
-
-I believe the best engineers are also good thinkers, and the best researchers never stop being curious.
-
-&nbsp;
-
+I believe strong research and strong engineering share the same foundations: clarity of thought, rigor in execution, and respect for the people who use the outcome. I aim to produce work that is honest, well-tested, and built to last.
 
 ---
