@@ -37,8 +37,9 @@ A selection of projects and source code is available in the repositories.
 
 ---
 
-## Professional Values
+## What Good Work Means to Me
 
 I believe strong research and strong engineering share the same foundations: clarity of thought, rigor in execution, and respect for the people who use the outcome. I aim to produce work that is honest, well-tested, and built to last.
+
 
 ---
